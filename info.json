@@ -1,0 +1,11 @@
+{
+    "name": "critical-condition",
+    "version": "0.1.0",
+    "title": "Critical Condition",
+    "author": "Daxanius",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0"
+    ],
+    "description": "Clearly communicates damage to the player."
+}
